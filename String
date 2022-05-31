@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLITE_191103517_Enrico_Aldi_Suhanto</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="list">List</string>
+    <string name="delete">Delete</string>
+    <string name="large_text">LARGE TEXT</string>
+</resources>
